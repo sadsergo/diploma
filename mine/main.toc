@@ -1,0 +1,24 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Актуальность}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Цель работы}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Формальная постановка задачи}{5}{}%
+\contentsline {section}{\numberline {2}Обзор существующих работ}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Представления на основе полигональной сетки}{8}{}%
+\contentsline {subsection}{\numberline {2.2}Неявные аналитические представления}{9}{}%
+\contentsline {subsection}{\numberline {2.3}Рендеринг геометрии CSG}{10}{}%
+\contentsline {section}{\numberline {3}Исследование и построение решения задачи}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Выбор метрик}{11}{}%
+\contentsline {subsection}{\numberline {3.2}Выбор датасета}{13}{}%
+\contentsline {section}{\numberline {4}Практическая реализация}{15}{}%
+\contentsline {subsection}{\numberline {4.1}Структура бенчмарка}{15}{}%
+\contentsline {subsection}{\numberline {4.2}Контейнеризация}{16}{}%
+\contentsline {subsection}{\numberline {4.3}Возникшие проблемы}{16}{}%
+\contentsline {section}{\numberline {5}Эксперименты и результаты}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Пример конфигурационного файла}{18}{}%
+\contentsline {subsection}{\numberline {5.2}Длинный список}{19}{}%
+\contentsline {subsection}{\numberline {5.3}Короткий список}{21}{}%
+\contentsline {subsection}{\numberline {5.4}Вывод}{23}{}%
+\contentsline {subsection}{\numberline {5.5}Сравнение с MPR}{24}{}%
+\contentsline {section}{\numberline {6}Заключение}{25}{}%
+\contentsline {section}{\numberline {7}Список литературы}{26}{}%

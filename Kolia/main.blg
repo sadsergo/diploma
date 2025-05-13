@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: biblio.bib
+Warning--can't use both volume and number fields in stava2014inverse
+Warning--empty journal in garifullin2022fitting
+Warning--can't use both volume and number fields in vst2010inverse
+Warning--can't use both volume and number fields in gaillard2022automatic
+Warning--empty publisher in muller2006procedural
+You've used 38 entries,
+            1791 wiz_defined-function locations,
+            668 strings with 12194 characters,
+and the built_in function-call counts, 11826 in all, are:
+= -- 1067
+> -- 594
+< -- 22
++ -- 210
+- -- 172
+* -- 801
+:= -- 1749
+add.period$ -- 128
+call.type$ -- 38
+change.case$ -- 38
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 572
+empty$ -- 1079
+format.name$ -- 172
+if$ -- 2744
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 38
+newline$ -- 193
+num.names$ -- 42
+pop$ -- 141
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 349
+stack$ -- 0
+substring$ -- 748
+swap$ -- 235
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 112
+width$ -- 40
+write$ -- 433
+(There were 5 warnings)
