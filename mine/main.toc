@@ -1,24 +1,25 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Введение}{4}{}%
-\contentsline {subsection}{\numberline {1.1}Актуальность}{4}{}%
-\contentsline {subsection}{\numberline {1.2}Цель работы}{5}{}%
-\contentsline {subsection}{\numberline {1.3}Формальная постановка задачи}{5}{}%
-\contentsline {section}{\numberline {2}Обзор существующих работ}{7}{}%
-\contentsline {subsection}{\numberline {2.1}Представления на основе полигональной сетки}{8}{}%
-\contentsline {subsection}{\numberline {2.2}Неявные аналитические представления}{9}{}%
-\contentsline {subsection}{\numberline {2.3}Рендеринг геометрии CSG}{10}{}%
-\contentsline {section}{\numberline {3}Исследование и построение решения задачи}{11}{}%
-\contentsline {subsection}{\numberline {3.1}Выбор метрик}{11}{}%
-\contentsline {subsection}{\numberline {3.2}Выбор датасета}{13}{}%
-\contentsline {section}{\numberline {4}Практическая реализация}{15}{}%
-\contentsline {subsection}{\numberline {4.1}Структура бенчмарка}{15}{}%
-\contentsline {subsection}{\numberline {4.2}Контейнеризация}{16}{}%
-\contentsline {subsection}{\numberline {4.3}Возникшие проблемы}{16}{}%
-\contentsline {section}{\numberline {5}Эксперименты и результаты}{18}{}%
-\contentsline {subsection}{\numberline {5.1}Пример конфигурационного файла}{18}{}%
-\contentsline {subsection}{\numberline {5.2}Длинный список}{19}{}%
-\contentsline {subsection}{\numberline {5.3}Короткий список}{21}{}%
-\contentsline {subsection}{\numberline {5.4}Вывод}{23}{}%
-\contentsline {subsection}{\numberline {5.5}Сравнение с MPR}{24}{}%
-\contentsline {section}{\numberline {6}Заключение}{25}{}%
-\contentsline {section}{\numberline {7}Список литературы}{26}{}%
+\contentsline {section}{\numberline {2}Постановка задачи}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Цель работы}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Формальная постановка задачи}{6}{}%
+\contentsline {section}{\numberline {3}Обзор существующих работ}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Представления на основе полигональной сетки}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Неявные аналитические представления}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Рендеринг геометрии CSG}{10}{}%
+\contentsline {subsection}{\numberline {3.4}Метрики}{11}{}%
+\contentsline {subsection}{\numberline {3.5}Датасеты}{12}{}%
+\contentsline {section}{\numberline {4}Методология}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Выбор метрик}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Выбор датасета}{16}{}%
+\contentsline {subsection}{\numberline {4.3}Выбор методов SDF}{18}{}%
+\contentsline {subsection}{\numberline {4.4}Приведение в сравнимый вид}{18}{}%
+\contentsline {subsection}{\numberline {4.5}Освещение}{19}{}%
+\contentsline {section}{\numberline {5}Практическая реализация}{20}{}%
+\contentsline {subsection}{\numberline {5.1}Структура бенчмарка}{20}{}%
+\contentsline {subsection}{\numberline {5.2}Возникшие проблемы}{21}{}%
+\contentsline {section}{\numberline {6}Эксперименты и результаты}{23}{}%
+\contentsline {subsection}{\numberline {6.1}Компромисс между памятью и качеством}{23}{}%
+\contentsline {subsection}{\numberline {6.2}Выводы}{23}{}%
+\contentsline {section}{\numberline {7}Заключение}{24}{}%
+\contentsline {section}{\numberline {8}Список литературы}{25}{}%
