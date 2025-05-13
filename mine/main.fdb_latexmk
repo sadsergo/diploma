@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1747171479.0014 "/home/sergei/Desktop/diploma/mine/main.tex" "main.pdf" "main" 1747171480.11366 0
+["pdflatex"] 1747172342.17394 "/home/sergei/Desktop/diploma/mine/main.tex" "main.pdf" "main" 1747172343.28299 0
   "/etc/texmf/web2c/texmf.cnf" 1744974294.55034 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1747129855.67665 14040 77558bbe64d2b31f0bc19839bd6f2a71 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1095.600pk" 1747129849.10269 26656 be4a1fe1915c275a42b5e95c480510b9 ""
@@ -25,7 +25,7 @@
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1747129850.51368 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1747129845.11671 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1747129845.82971 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
-  "/home/sergei/Desktop/diploma/mine/main.tex" 1747171479.80563 72415 03fc6e06c7ea560b6afd21bf458bf28b ""
+  "/home/sergei/Desktop/diploma/mine/main.tex" 1747172341.96068 72346 76ac9e82cc519538f3a2f2724095c3ff ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -136,9 +136,9 @@
   "dragon.png" 1747158942.77436 321018 facfb47d1d69d5a85f6d49d4dc8977b5 ""
   "example.jpg" 1747162953.30934 64231 9813561d79e204320f7806acd0f26484 ""
   "gzlogo.png" 1747128487.7988 20465 ea0a0d2db03822c4a476ab206800f11f ""
-  "main.aux" 1747171480.00163 5240 3acff680db540fdbb3045c943beed16f "pdflatex"
-  "main.tex" 1747171479.80563 72415 03fc6e06c7ea560b6afd21bf458bf28b ""
-  "main.toc" 1747171480.00263 2112 51ce179af5b7165f314676fb656857ea "pdflatex"
+  "main.aux" 1747172343.17567 5240 3acff680db540fdbb3045c943beed16f "pdflatex"
+  "main.tex" 1747172341.96068 72346 76ac9e82cc519538f3a2f2724095c3ff ""
+  "main.toc" 1747172343.17667 2112 51ce179af5b7165f314676fb656857ea "pdflatex"
   "waterpump.png" 1747158942.76736 285659 f9c3255c2937fd28cb4e85749598652a ""
   (generated)
   "main.aux"

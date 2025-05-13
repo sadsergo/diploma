@@ -582,10 +582,9 @@ LPIPS представляет современный подход к оценк
 	\hline
 	Decimation [Garland and Heckbert 1997]   & SVO [Laine and Karras, 2010]  \\
 	VDB [Museth 2013]   & SBS [Herman et al. 2022]  \\
-	NGLOD [Takikawa et al. 2021] & Analytic SVO [Pujol and Chica 2024] \\
-	SDF Octree [Pujol and Chica 2023; Pujol and Chica 2024] & AASDF [Pujol and Chica 2023] \\
-	Intant NGP (IMGP) [Müller et. al 2022] & \\
-	MPR CSG [Keeter 2020] & \\
+	MPR CSG [Keeter 2020] & AASDF [Pujol and Chica 2023] \\
+	NGLOD [Takikawa et al. 2021] & Analytic SVO [Pujol and Chica 2024]\\
+	Instant NGP [Müller et. al 2022] & \\
 	CSG SComTree$^{(1)}$ & \\
 	\hline
 	\end{tabular}
@@ -687,7 +686,7 @@ API Vulkan из С++ кода. Для такой трансформации ко
 Сцена может рисоваться 
 как в режиме Мультирендера [ссылка на LiteRT], который использует стандартную трассировку и шагаюшую трассировку лучей для поиска пересечения с поверхностью, так и рендер систему 
 HydraCore3 [ссылка], разрабатываемую в лаборатории компьютерной графики и мультимедиа факультета ВМК МГУ, которая способна рендерить реалистичные сцены
-за счет использования трассировки пути. На рисунке 1 показана схема работы бенчмарка.
+за счет использования трассировки пути. На рисунке 3 показана схема работы бенчмарка.
 
 \begin{figure}[h]
   \centering
