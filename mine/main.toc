@@ -12,14 +12,14 @@
 \contentsline {section}{\numberline {4}Методология}{13}{}%
 \contentsline {subsection}{\numberline {4.1}Выбор метрик}{13}{}%
 \contentsline {subsection}{\numberline {4.2}Выбор датасета}{16}{}%
-\contentsline {subsection}{\numberline {4.3}Выбор методов SDF}{18}{}%
-\contentsline {subsection}{\numberline {4.4}Приведение в сравнимый вид}{18}{}%
-\contentsline {subsection}{\numberline {4.5}Освещение}{19}{}%
-\contentsline {section}{\numberline {5}Практическая реализация}{20}{}%
-\contentsline {subsection}{\numberline {5.1}Структура бенчмарка}{20}{}%
-\contentsline {subsection}{\numberline {5.2}Возникшие проблемы}{21}{}%
-\contentsline {section}{\numberline {6}Эксперименты и результаты}{23}{}%
-\contentsline {subsection}{\numberline {6.1}Компромисс между памятью и качеством}{23}{}%
-\contentsline {subsection}{\numberline {6.2}Выводы}{23}{}%
-\contentsline {section}{\numberline {7}Заключение}{24}{}%
-\contentsline {section}{\numberline {8}Список литературы}{25}{}%
+\contentsline {subsection}{\numberline {4.3}Примеры моделей}{18}{}%
+\contentsline {subsection}{\numberline {4.4}Выбор методов SDF}{19}{}%
+\contentsline {subsection}{\numberline {4.5}Приведение в сравнимый вид}{19}{}%
+\contentsline {subsection}{\numberline {4.6}Освещение}{21}{}%
+\contentsline {section}{\numberline {5}Практическая реализация}{22}{}%
+\contentsline {subsection}{\numberline {5.1}Структура бенчмарка}{22}{}%
+\contentsline {subsection}{\numberline {5.2}Возникшие проблемы}{23}{}%
+\contentsline {section}{\numberline {6}Эксперименты и результаты}{25}{}%
+\contentsline {subsection}{\numberline {6.1}Компромисс между памятью и качеством}{25}{}%
+\contentsline {subsection}{\numberline {6.2}Выводы}{25}{}%
+\contentsline {section}{\numberline {7}Заключение}{26}{}%

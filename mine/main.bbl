@@ -1,0 +1,193 @@
+\begin{thebibliography}{10}
+
+\bibitem{DGF}
+Joshua Barczak, Carsten Benthin, and David McAllister.
+\newblock Dgf: A dense, hardware friendly geometry format for lossily compression meshlets with arbitrary topologies.
+\newblock {\em Proceedings of the ACM on Computer Graphics and Interactive Techniques 7}, 41, 2024.
+
+\bibitem{Meshlet}
+Daniel Mlakar, Markus Steinberger, and Dieter Schmalstieg.
+\newblock End-to-end compressed meshlet rendering.
+\newblock {\em Wiley Online Library, e15002}, 43, 2024.
+
+\bibitem{fly_fly}
+A.~Nikolaev, A.~Shcherbakov, and V.~Frolov.
+\newblock Mesh compression method with on-the-fly decompression during rasterization and streaming support.
+\newblock {\em WSCG 2022 Proceedings}, 2022.
+
+\bibitem{LA_lods}
+Jacob Haydel, Cem Yuksel, and Larry Seiler.
+\newblock Locally-adaptive level-of-detail for hardware-accelerated ray tracing.
+\newblock {\em ACM Transactions on Graphics}, 42, 2023.
+
+\bibitem{micromesh}
+Andrea Maggiordomo, Henry Moreton, and Marco Tarini.
+\newblock Micro-mesh construction.
+\newblock {\em ACM Trans. Graph}, 42, 2023.
+
+\bibitem{ls_cad}
+Junjie Xue, Gang Zhao, and Wenlei Xiao.
+\newblock Efficient gpu out-of-core visualization of large-scale cad models with voxel representations.
+\newblock {\em Advances in Engineering Software}, 99, 2016.
+
+\bibitem{ospray}
+M~Wald, GP~Johnson, and J~Amstutz.
+\newblock Ospray - a cpu ray tracing framework for scientific visualization.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, 23, 2017.
+
+\bibitem{vppt}
+Mark Lee, Brian Green, and Feng Xie.
+\newblock Vectorized production path tracing.
+\newblock {\em Association for Computing Machinery, New York}, 10, 2017.
+
+\bibitem{lpm}
+Zhen Chen, Zherong Pan, Kui Wu, and Etienne Vouga.
+\newblock Robust low-poly meshing for general 3d models.
+\newblock {\em ACM Trans. Graph}, 42, 2023.
+
+\bibitem{old_lods}
+Michael Garland and Paul~S. Heckbert.
+\newblock Surface simplification using quadric error metrics.
+\newblock {\em In Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques}, 1997.
+
+\bibitem{scet}
+Adrien Maglo, Guillaume Lavoué, Florent Dupont, and Céline Hudelot.
+\newblock 3d mesh compression: Survey, comparisons, and emerging trends.
+\newblock {\em ACM Comput. Surv.}, 47, 2015.
+
+\bibitem{gi}
+Xianfeng Gu, Steven~J. Gortler, and Hugues Hoppe.
+\newblock Geometry images.
+\newblock {\em ACM SIGGRAPH}, 2002.
+
+\bibitem{ngf}
+Venkataram~Edavamadathil Sivaram, Tzu-Mao Li, and Ravi Ramamoorthi.
+\newblock Neural geometry fields for meshes.
+\newblock {\em ACM SIGGRAPH}, 2024.
+
+\bibitem{scgb}
+Gabriel Peyré and Stéphane Mallat.
+\newblock Surface compression with geometric bandelets.
+\newblock {\em ACM SIGGRAPH}, 2005.
+
+\bibitem{vknvtc}
+NVIDIA.
+\newblock Rtxmg.
+\newblock NVIDIA, 2025.
+
+\bibitem{octree}
+Hansson-Söderlund Herman, Evans Alex, and Akenine-Möller Tomas.
+\newblock Ray tracing of signed distance function grids.
+\newblock {\em Journal of Computer Graphics Techniques 11}, 2022.
+
+\bibitem{vdb}
+Ken Museth.
+\newblock High-resolution sparse volumes with dynamic topology.
+\newblock {\em ACM Trans. Graph. 32}, 2013.
+
+\bibitem{gvdb}
+Rama~Karl Hoetzlein.
+\newblock Gvdb: raytracing sparse voxel database structures on the gpu.
+\newblock {\em In Proceedings of High Performance Graphics (Dublin, Ireland)}, 2016.
+
+\bibitem{octree_old}
+Samuli Laine and Tero Karras.
+\newblock Efficient sparse voxel octrees.
+\newblock {\em Association for Computing Machinery}, 2010.
+
+\bibitem{octree_analytic}
+Eduard Pujol and Antonio Chica.
+\newblock Rendering piecewise approximations of sdfs through analytic intersections.
+\newblock {\em Comput. Graph. 122}, 2024.
+
+\bibitem{aasdf}
+Eduard Pujol and Antonio Chica.
+\newblock Adaptive approximation of signed distance fields through piecewise continuous interpolation.
+\newblock {\em Comput. Graph. 114}, 2023.
+
+\bibitem{titd}
+Henry~A. Boateng and Kyle Bradach.
+\newblock Triquintic interpolation in three dimensions.
+\newblock {\em J. Comput. Appl. Math. 430}, 2023.
+
+\bibitem{hashgrid}
+Matthias Nießner, Michael Zollhöfer, Shahram Izadi, and Marc Stamminger.
+\newblock Real-time 3d reconstruction at scale using voxel hashing.
+\newblock {\em ACM Trans. Graph. 32}, 2013.
+
+\bibitem{mpr}
+Matthew~J. Keeter.
+\newblock Massively parallel rendering of complex closed-form implicit surfaces.
+\newblock {\em SIGGRAPH 2020}, 2020.
+
+\bibitem{bogolepov}
+Bogolepov, D.K., D.~Ulyanov, V.~Turlapov, Sas, and O.
+\newblock Gpu-optimized ray-tracing for constructive solid geometry scenes.
+\newblock {\em Графикон}, 2016.
+
+\bibitem{itlbvh}
+Carsten Benthin, Sven Woop, Ingo Wald, and Attila~T. Áfra.
+\newblock Improved two-level bvhs using partial re-braiding.
+\newblock {\em In Proceedings of High Performance Graphics (HPG '17)}, 2017.
+
+\bibitem{ssim}
+Zhou Wang, A.C. Bovik, H.R. Sheikh, and E.P. Simoncelli.
+\newblock Image quality assessment: from error visibility to structural similarity.
+\newblock {\em IEEE Transactions on Image Processing}, 2004.
+
+\bibitem{flip}
+Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, and Kaiming He.
+\newblock Scaling language-image pre-training via masking.
+\newblock {\em arXiv:2212.00794v}, 2023.
+
+\bibitem{lpips}
+Richard Zhang, Phillip Isola, Alexei~A. Efros, Eli Shechtman, and Oliver Wang.
+\newblock The unreasonable effectiveness of deep features as a perceptual metric.
+\newblock {\em CVPR 2018}, 2018.
+
+\bibitem{alexnet}
+Geoffrey E.~Hinton Alex~Krizhevsky, Ilya~Sutskever.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in Neural Information Processing Systems 25}, 2012.
+
+\bibitem{diligent102}
+Jieji Ren, Feishi Wang, Jiahao Zhang, Qian Zheng, Mingjun Ren, and Boxin Shi.
+\newblock Diligent102: A photometric stereo benchmark dataset with controlled shape and material variation.
+\newblock {\em IEEE Xplore}, 2022.
+
+\bibitem{lucesmv}
+Fotios Logothetis, Ignas Budvytis, Stephan Liwicki, and Roberto Cipolla.
+\newblock Luces-mv: A multi-view dataset for near-field point light source photometric stereo.
+\newblock {\em arXiv}, 2024.
+
+\bibitem{openillumination}
+Isabella Liu, Linghao Chen, Ziyang Fu, Liwen Wu, Haian Jin, Zhong Li, Chin Ming~Ryan Wong, Yi~Xu, Ravi Ramamoorthi, Zexiang Xu, and Hao Su.
+\newblock Openillumination: A multi-illumination dataset for inverse rendering evaluation on real objects.
+\newblock {\em arXiv}, 2024.
+
+\bibitem{diligenrt}
+Heng Guo, Jieji Ren, Feishi Wang, Mingjun Ren, and Yasuyuki Matsushita.
+\newblock Diligenrt: A photometric stereo dataset with quantified roughness and translucency.
+\newblock {\em IEEE Xplore}, 2023.
+
+\bibitem{ga}
+Chen Guanying, Kai Han, and Kwan-Yee~Kenneth Wong.
+\newblock Ps-fcn: A flexible learning framework for photometric stereo.
+\newblock {\em arXiv}, 2018.
+
+\bibitem{osrs}
+В.А. ФРОЛОВ, Д.С. ПАВЛОВ, М.А. ТРОФИМОВ, П.А. КАЗБЕЕВ, and В.А. ГАЛАКТИОНОВ.
+\newblock ОТКРЫТОЕ СОРЕВНОВАНИЕ РЕНДЕР-СИСТЕМ.
+\newblock {\em MATHEMATICA MONTISNIGRI}, 2019.
+
+\bibitem{nglod}
+Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, and Sanja Fidler.
+\newblock Neural geometric level of detail: Real-time rendering with implicit 3d shapes.
+\newblock {\em In Computer Vision and Pattern Recognition (CVPR), 2021 (Oral)}, 2021.
+
+\bibitem{ingp}
+THOMAS MÜLLER, ALEX EVANS, CHRISTOPH SCHIED, and ALEXANDER KELLER.
+\newblock Instant neural graphics primitives with a multiresolution hash encoding.
+\newblock {\em ACM Transactions on Graphics (SIGGRAPH 2022)}, 2022.
+
+\end{thebibliography}
