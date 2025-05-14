@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1747232287.35783 "main.aux" "main.bbl" "main" 1747232338.92217 0
+["bibtex main"] 1747242656.10297 "main.aux" "main.bbl" "main" 1747242657.66904 0
   "./biblio.bib" 1747227074.69135 9158 d2aaad76083cc69f24da7f146a723dc2 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "main.aux" 1747232338.74677 7367 775682aa137c92e984dc06f0f12aa33a "pdflatex"
+  "main.aux" 1747242657.49952 8199 f2e1d0d7b55d31dc0cf8413687b965ac "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1747232337.59322 "/home/sergei/Desktop/diploma/mine/main.tex" "main.pdf" "main" 1747232338.92271 0
+["pdflatex"] 1747242656.13362 "/home/sergei/Desktop/diploma/mine/main.tex" "main.pdf" "main" 1747242657.66924 0
   "/etc/texmf/web2c/texmf.cnf" 1744974294.55034 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1747129855.67665 14040 77558bbe64d2b31f0bc19839bd6f2a71 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1095.600pk" 1747129849.10269 26656 be4a1fe1915c275a42b5e95c480510b9 ""
@@ -35,7 +35,7 @@
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1747129845.11671 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1747129845.82971 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
   "/home/sergei/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1747219538.78898 3512 f3a56cfe95a159371df20f73d1eb107d ""
-  "/home/sergei/Desktop/diploma/mine/main.tex" 1747232337.37578 72065 14d19ff6c66130a85951780039faed00 ""
+  "/home/sergei/Desktop/diploma/mine/main.tex" 1747242654.52853 74385 fd9c7233286703c667634bcb51a70c30 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -142,16 +142,21 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1747129770.85212 167470 33f10313cc2bf91fb22ded8d87a7e0d7 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1747230126 6908352 f79a0c7ef86035bd11fee6607c660348 ""
   "bench_blocks.jpg" 1747164649.38333 69179 713635d451b424458e3dfc57aa877516 ""
+  "budda1.png" 1747242192.6518 220917 083d97c4727e595e4f922432035f8e4f ""
   "buggy.png" 1747158942.78136 344339 c59250e0590258d8ace2811154c61089 ""
+  "buggy_psnr.png" 1747237432.05243 54420 3bf5508513307f4e7479c333ac60c4d2 ""
+  "cylinder.png" 1747241609.91509 220976 ffbff2a159844b529c07bd37fbc36a24 ""
   "dragon.png" 1747158942.77436 321018 facfb47d1d69d5a85f6d49d4dc8977b5 ""
+  "dragon_psnr.png" 1747236962.81118 69495 e106a8eb2dbc7b5c9c2c10570ae866c7 ""
   "example.png" 1747231157.27907 47272 123fdf39ce8a3ea37fb3ad0499ea8c32 ""
+  "example2.jpeg" 1747241079.00208 69407 9f15a386afc2a0fa2760e7f90a82f5a2 ""
   "gzlogo.png" 1747128487.7988 20465 ea0a0d2db03822c4a476ab206800f11f ""
   "img1.jpg" 1747128487.7998 83986 80724acd8b75f09e642cac35e8e3f1c2 ""
   "img2.jpg" 1747128487.7998 89670 7a8c62e88c1070c049538333fe2369dd ""
-  "main.aux" 1747232338.74677 7367 775682aa137c92e984dc06f0f12aa33a "pdflatex"
-  "main.bbl" 1747232287.3761 7638 637939fd801e1dfe7acf681d5e78dbb0 "bibtex main"
-  "main.tex" 1747232337.37578 72065 14d19ff6c66130a85951780039faed00 ""
-  "main.toc" 1747232338.74777 2113 5a95dfbd7fd8e3de1f961719dcffa530 "pdflatex"
+  "main.aux" 1747242657.49952 8199 f2e1d0d7b55d31dc0cf8413687b965ac "pdflatex"
+  "main.bbl" 1747242656.12853 7638 637939fd801e1dfe7acf681d5e78dbb0 "bibtex main"
+  "main.tex" 1747242654.52853 74385 fd9c7233286703c667634bcb51a70c30 ""
+  "main.toc" 1747242657.50052 2127 3a7a3412f41f3b931abb58c6461fcd15 "pdflatex"
   "waterpump.png" 1747158942.76736 285659 f9c3255c2937fd28cb4e85749598652a ""
   (generated)
   "main.aux"

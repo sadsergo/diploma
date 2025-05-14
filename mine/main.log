@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.14)  14 MAY 2025 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.14)  14 MAY 2025 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -620,6 +620,18 @@ LaTeX Warning: Unused global option(s):
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -774,16 +786,39 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 716--717
  []
 
 [22 <./bench_blocks.jpg>] [23] [24]
-File: example.png Graphic file (type png)
-<use example.png>
-Package pdftex.def Info: example.png  used on input line 765.
-(pdftex.def)             Requested size: 469.47049pt x 281.68425pt.
- [25] [26] (./main.bbl [27] [28]
+<dragon_psnr.png, id=109, 722.7pt x 433.62pt>
+File: dragon_psnr.png Graphic file (type png)
+<use dragon_psnr.png>
+Package pdftex.def Info: dragon_psnr.png  used on input line 765.
+(pdftex.def)             Requested size: 375.57782pt x 225.34474pt.
+<buggy_psnr.png, id=110, 722.7pt x 433.62pt>
+File: buggy_psnr.png Graphic file (type png)
+<use buggy_psnr.png>
+Package pdftex.def Info: buggy_psnr.png  used on input line 772.
+(pdftex.def)             Requested size: 375.57782pt x 225.34474pt.
+ [25 <./dragon_psnr.png> <./buggy_psnr.png>]
+<example2.jpeg, id=117, 588.1975pt x 365.365pt>
+File: example2.jpeg Graphic file (type jpg)
+<use example2.jpeg>
+Package pdftex.def Info: example2.jpeg  used on input line 792.
+(pdftex.def)             Requested size: 375.57782pt x 233.29202pt.
+<cylinder.png, id=118, 807.015pt x 521.95pt>
+File: cylinder.png Graphic file (type png)
+<use cylinder.png>
+Package pdftex.def Info: cylinder.png  used on input line 799.
+(pdftex.def)             Requested size: 375.57782pt x 242.9113pt.
+ [26 <./example2.jpeg>]
+<budda1.png, id=122, 809.0225pt x 523.9575pt>
+File: budda1.png Graphic file (type png)
+<use budda1.png>
+Package pdftex.def Info: budda1.png  used on input line 808.
+(pdftex.def)             Requested size: 375.57782pt x 243.24597pt.
+ [27 <./cylinder.png> <./budda1.png>] [28] [29] (./main.bbl [30] [31]
 Underfull \hbox (badness 2662) in paragraph at lines 179--182
 []\T2A/cmr/m/n/12 Â.À. ÔÐÎ-ËÎÂ, Ä.Ñ. ÏÀÂ-ËÎÂ, Ì.À. ÒÐÎ-ÔÈ-ÌÎÂ, Ï.À. ÊÀÇ-ÁÅ-ÅÂ, and
  []
 
-) [29] (./main.aux)
+) [32] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -794,18 +829,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12058 strings out of 475583
- 193812 string characters out of 5785559
+ 12093 strings out of 475583
+ 194500 string characters out of 5785559
  1941975 words of memory out of 5000000
- 33876 multiletter control sequences out of 15000+600000
+ 33911 multiletter control sequences out of 15000+600000
  575304 words of font info for 70 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
  68i,12n,77p,1048b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1095.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk> </home/sergei/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (29 pages, 1313826 bytes).
+Output written on main.pdf (32 pages, 1900944 bytes).
 PDF statistics:
- 698 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 720 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

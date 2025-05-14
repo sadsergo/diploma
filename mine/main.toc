@@ -21,5 +21,5 @@
 \contentsline {subsection}{\numberline {5.2}Возникшие проблемы}{23}{}%
 \contentsline {section}{\numberline {6}Эксперименты и результаты}{25}{}%
 \contentsline {subsection}{\numberline {6.1}Компромисс между памятью и качеством}{25}{}%
-\contentsline {subsection}{\numberline {6.2}Выводы}{25}{}%
-\contentsline {section}{\numberline {7}Заключение}{26}{}%
+\contentsline {subsection}{\numberline {6.2}Классификация}{26}{}%
+\contentsline {section}{\numberline {7}Заключение}{29}{}%
