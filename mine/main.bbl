@@ -2,8 +2,10 @@
 
 \bibitem{DGF}
 Joshua Barczak, Carsten Benthin, and David McAllister.
-\newblock Dgf: A dense, hardware friendly geometry format for lossily compression meshlets with arbitrary topologies.
-\newblock {\em Proceedings of the ACM on Computer Graphics and Interactive Techniques 7}, 41, 2024.
+\newblock Dgf: A dense, hardware friendly geometry format for lossily
+  compression meshlets with arbitrary topologies.
+\newblock {\em Proceedings of the ACM on Computer Graphics and Interactive
+  Techniques 7}, 41, 2024.
 
 \bibitem{Meshlet}
 Daniel Mlakar, Markus Steinberger, and Dieter Schmalstieg.
@@ -12,12 +14,14 @@ Daniel Mlakar, Markus Steinberger, and Dieter Schmalstieg.
 
 \bibitem{fly_fly}
 A.~Nikolaev, A.~Shcherbakov, and V.~Frolov.
-\newblock Mesh compression method with on-the-fly decompression during rasterization and streaming support.
+\newblock Mesh compression method with on-the-fly decompression during
+  rasterization and streaming support.
 \newblock {\em WSCG 2022 Proceedings}, 2022.
 
 \bibitem{LA_lods}
 Jacob Haydel, Cem Yuksel, and Larry Seiler.
-\newblock Locally-adaptive level-of-detail for hardware-accelerated ray tracing.
+\newblock Locally-adaptive level-of-detail for hardware-accelerated ray
+  tracing.
 \newblock {\em ACM Transactions on Graphics}, 42, 2023.
 
 \bibitem{micromesh}
@@ -27,13 +31,15 @@ Andrea Maggiordomo, Henry Moreton, and Marco Tarini.
 
 \bibitem{ls_cad}
 Junjie Xue, Gang Zhao, and Wenlei Xiao.
-\newblock Efficient gpu out-of-core visualization of large-scale cad models with voxel representations.
+\newblock Efficient gpu out-of-core visualization of large-scale cad models
+  with voxel representations.
 \newblock {\em Advances in Engineering Software}, 99, 2016.
 
 \bibitem{ospray}
 M~Wald, GP~Johnson, and J~Amstutz.
 \newblock Ospray - a cpu ray tracing framework for scientific visualization.
-\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, 23, 2017.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, 23,
+  2017.
 
 \bibitem{vppt}
 Mark Lee, Brian Green, and Feng Xie.
@@ -48,7 +54,8 @@ Zhen Chen, Zherong Pan, Kui Wu, and Etienne Vouga.
 \bibitem{old_lods}
 Michael Garland and Paul~S. Heckbert.
 \newblock Surface simplification using quadric error metrics.
-\newblock {\em In Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques}, 1997.
+\newblock {\em In Proceedings of the 24th Annual Conference on Computer
+  Graphics and Interactive Techniques}, 1997.
 
 \bibitem{scet}
 Adrien Maglo, Guillaume Lavoué, Florent Dupont, and Céline Hudelot.
@@ -88,7 +95,8 @@ Ken Museth.
 \bibitem{gvdb}
 Rama~Karl Hoetzlein.
 \newblock Gvdb: raytracing sparse voxel database structures on the gpu.
-\newblock {\em In Proceedings of High Performance Graphics (Dublin, Ireland)}, 2016.
+\newblock {\em In Proceedings of High Performance Graphics (Dublin, Ireland)},
+  2016.
 
 \bibitem{octree_old}
 Samuli Laine and Tero Karras.
@@ -97,12 +105,14 @@ Samuli Laine and Tero Karras.
 
 \bibitem{octree_analytic}
 Eduard Pujol and Antonio Chica.
-\newblock Rendering piecewise approximations of sdfs through analytic intersections.
+\newblock Rendering piecewise approximations of sdfs through analytic
+  intersections.
 \newblock {\em Comput. Graph. 122}, 2024.
 
 \bibitem{aasdf}
 Eduard Pujol and Antonio Chica.
-\newblock Adaptive approximation of signed distance fields through piecewise continuous interpolation.
+\newblock Adaptive approximation of signed distance fields through piecewise
+  continuous interpolation.
 \newblock {\em Comput. Graph. 114}, 2023.
 
 \bibitem{titd}
@@ -117,7 +127,8 @@ Matthias Nießner, Michael Zollhöfer, Shahram Izadi, and Marc Stamminger.
 
 \bibitem{mpr}
 Matthew~J. Keeter.
-\newblock Massively parallel rendering of complex closed-form implicit surfaces.
+\newblock Massively parallel rendering of complex closed-form implicit
+  surfaces.
 \newblock {\em SIGGRAPH 2020}, 2020.
 
 \bibitem{bogolepov}
@@ -132,7 +143,8 @@ Carsten Benthin, Sven Woop, Ingo Wald, and Attila~T. Áfra.
 
 \bibitem{ssim}
 Zhou Wang, A.C. Bovik, H.R. Sheikh, and E.P. Simoncelli.
-\newblock Image quality assessment: from error visibility to structural similarity.
+\newblock Image quality assessment: from error visibility to structural
+  similarity.
 \newblock {\em IEEE Transactions on Image Processing}, 2004.
 
 \bibitem{flip}
@@ -142,7 +154,8 @@ Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, and Kaiming He.
 
 \bibitem{lpips}
 Richard Zhang, Phillip Isola, Alexei~A. Efros, Eli Shechtman, and Oliver Wang.
-\newblock The unreasonable effectiveness of deep features as a perceptual metric.
+\newblock The unreasonable effectiveness of deep features as a perceptual
+  metric.
 \newblock {\em CVPR 2018}, 2018.
 
 \bibitem{alexnet}
@@ -152,22 +165,27 @@ Geoffrey E.~Hinton Alex~Krizhevsky, Ilya~Sutskever.
 
 \bibitem{diligent102}
 Jieji Ren, Feishi Wang, Jiahao Zhang, Qian Zheng, Mingjun Ren, and Boxin Shi.
-\newblock Diligent102: A photometric stereo benchmark dataset with controlled shape and material variation.
+\newblock Diligent102: A photometric stereo benchmark dataset with controlled
+  shape and material variation.
 \newblock {\em IEEE Xplore}, 2022.
 
 \bibitem{lucesmv}
 Fotios Logothetis, Ignas Budvytis, Stephan Liwicki, and Roberto Cipolla.
-\newblock Luces-mv: A multi-view dataset for near-field point light source photometric stereo.
+\newblock Luces-mv: A multi-view dataset for near-field point light source
+  photometric stereo.
 \newblock {\em arXiv}, 2024.
 
 \bibitem{openillumination}
-Isabella Liu, Linghao Chen, Ziyang Fu, Liwen Wu, Haian Jin, Zhong Li, Chin Ming~Ryan Wong, Yi~Xu, Ravi Ramamoorthi, Zexiang Xu, and Hao Su.
-\newblock Openillumination: A multi-illumination dataset for inverse rendering evaluation on real objects.
+Isabella Liu, Linghao Chen, Ziyang Fu, Liwen Wu, Haian Jin, Zhong Li, Chin
+  Ming~Ryan Wong, Yi~Xu, Ravi Ramamoorthi, Zexiang Xu, and Hao Su.
+\newblock Openillumination: A multi-illumination dataset for inverse rendering
+  evaluation on real objects.
 \newblock {\em arXiv}, 2024.
 
 \bibitem{diligenrt}
 Heng Guo, Jieji Ren, Feishi Wang, Mingjun Ren, and Yasuyuki Matsushita.
-\newblock Diligenrt: A photometric stereo dataset with quantified roughness and translucency.
+\newblock Diligenrt: A photometric stereo dataset with quantified roughness and
+  translucency.
 \newblock {\em IEEE Xplore}, 2023.
 
 \bibitem{ga}
@@ -176,18 +194,23 @@ Chen Guanying, Kai Han, and Kwan-Yee~Kenneth Wong.
 \newblock {\em arXiv}, 2018.
 
 \bibitem{osrs}
-В.А. ФРОЛОВ, Д.С. ПАВЛОВ, М.А. ТРОФИМОВ, П.А. КАЗБЕЕВ, and В.А. ГАЛАКТИОНОВ.
+В.А. ФРОЛОВ, Д.С. ПАВЛОВ, М.А. ТРОФИМОВ, П.А.
+  КАЗБЕЕВ, and В.А. ГАЛАКТИОНОВ.
 \newblock ОТКРЫТОЕ СОРЕВНОВАНИЕ РЕНДЕР-СИСТЕМ.
 \newblock {\em MATHEMATICA MONTISNIGRI}, 2019.
 
 \bibitem{nglod}
-Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, and Sanja Fidler.
-\newblock Neural geometric level of detail: Real-time rendering with implicit 3d shapes.
-\newblock {\em In Computer Vision and Pattern Recognition (CVPR), 2021 (Oral)}, 2021.
+Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek
+  Nowrouzezahrai, Alec Jacobson, Morgan McGuire, and Sanja Fidler.
+\newblock Neural geometric level of detail: Real-time rendering with implicit
+  3d shapes.
+\newblock {\em In Computer Vision and Pattern Recognition (CVPR), 2021 (Oral)},
+  2021.
 
 \bibitem{ingp}
 THOMAS MÜLLER, ALEX EVANS, CHRISTOPH SCHIED, and ALEXANDER KELLER.
-\newblock Instant neural graphics primitives with a multiresolution hash encoding.
+\newblock Instant neural graphics primitives with a multiresolution hash
+  encoding.
 \newblock {\em ACM Transactions on Graphics (SIGGRAPH 2022)}, 2022.
 
 \end{thebibliography}

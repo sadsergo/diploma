@@ -20,6 +20,7 @@
 \contentsline {subsection}{\numberline {5.1}Структура бенчмарка}{22}{}%
 \contentsline {subsection}{\numberline {5.2}Возникшие проблемы}{23}{}%
 \contentsline {section}{\numberline {6}Эксперименты и результаты}{25}{}%
-\contentsline {subsection}{\numberline {6.1}Компромисс между памятью и качеством}{25}{}%
-\contentsline {subsection}{\numberline {6.2}Классификация}{26}{}%
-\contentsline {section}{\numberline {7}Заключение}{29}{}%
+\contentsline {subsection}{\numberline {6.1}Общие результаты}{25}{}%
+\contentsline {subsection}{\numberline {6.2}Компромисс между памятью и качеством}{25}{}%
+\contentsline {subsection}{\numberline {6.3}Классификация}{27}{}%
+\contentsline {section}{\numberline {7}Заключение}{30}{}%
